@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## Supported Versions  
 
 The following versions of the Joylo Multi Vendor Food Delivery System are currently supported with security updates:
 
